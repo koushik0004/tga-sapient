@@ -27,8 +27,6 @@
 ` docker run -p 3000:3000 xt/nitro2` 
 
 ## Node PM2
-
-`
 pm2 commands:
 1. sudo npm install -g pm2
 2. sudo npm install -g pm2-server-monit
@@ -41,8 +39,6 @@ pm2 commands:
 9. pm2 reload all
 10. pm2 kill
 11. pm2 link y0b1fxg8sbsm7u4 kodpahu0p7pkenq WKMIN0896083
-
-`
 
 ## steps to Build Locally & run
 
