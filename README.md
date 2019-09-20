@@ -15,6 +15,7 @@
 
 ## Useful git Repo
 ` Microfrontend - https://github.com/xt/nitro2`
+` Safari Docker compose - https://github.com/tonsky/FiraCode`
 
 ## Useful Tools
 ` Online practice - https://www.katacoda.com/courses/docker `
