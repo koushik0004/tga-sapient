@@ -2,6 +2,7 @@
 
 ## Required details for development
 ` CODE COMMIT REPO : https://del.tools.publicis.sapient.com/bitbucket/projects/XTTRAIN/repos/142937-koushik-sadhukhan/browse`
+`https://del.tools.publicis.sapient.com/bitbucket/projects/XTTRAIN/repos/142937-koushik-sadhukhan/browse`
 
 ## TGA session repo by Rajesh
 ` https://gitlab.com/sapient-tga-training-july-2019 `
